@@ -21,7 +21,7 @@
   </property>
   <property name="windowIcon">
    <iconset>
-    <normaloff>D:/Logo Design/PipMate/Asset 4transp.png</normaloff>D:/Logo Design/PipMate/Asset 4transp.png</iconset>
+    <normaloff>../../../../Logo Design/PipMate/Asset 4transp.png</normaloff>../../../../Logo Design/PipMate/Asset 4transp.png</iconset>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QTabWidget" name="tabWidget">
@@ -294,7 +294,7 @@
        <string/>
       </property>
       <property name="pixmap">
-       <pixmap>../../Downloads/download.svg</pixmap>
+       <pixmap>C:/Users/ethan/Pictures/Icons/download.png</pixmap>
       </property>
      </widget>
      <widget class="QLabel" name="label_9">
